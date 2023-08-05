@@ -19,7 +19,7 @@
     // "maxNodeModuleJsDepth": 1,                        /* Specify the maximum folder depth used for checking JavaScript files from 'node_modules'. Only applicable with 'allowJs'. */
 
     /* Emit */
-    "outDir": "build--esModuleInterop",                  /* Specify an output folder for all emitted files. */
+    "outDir": "build",                  /* Specify an output folder for all emitted files. */
     "baseUrl": ".",
     "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
     "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
